@@ -1,0 +1,7 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\obj\Debug\03. Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\obj\Debug\03. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\obj\Debug\_03.Restaurant_Discount.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\03. Restaurant Discount\obj\Debug\_03.Restaurant_Discount.pdb

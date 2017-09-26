@@ -1,0 +1,6 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb

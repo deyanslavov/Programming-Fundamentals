@@ -1,0 +1,6 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.pdb
