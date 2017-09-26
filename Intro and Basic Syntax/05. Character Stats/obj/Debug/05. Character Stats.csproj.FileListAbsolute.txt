@@ -1,0 +1,7 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\obj\Debug\05. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\obj\Debug\05. Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\02. Rectangle Area\obj\Debug\02. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb
