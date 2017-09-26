@@ -1,23 +1,20 @@
 ﻿using System;
 
-public class Program
+namespace BPMCounter
 {
-    public static void Main()
+    class Program
     {
-        double bpm = double.Parse(Console.ReadLine());
-        int numberOfBeats = int.Parse(Console.ReadLine());
-        double seconds = ((int)(numberOfBeats) * 60) / (int)(bpm);
-        int minutes = 0;
-        Console.Write("{0} bars - ", Math.Round(numberOfBeats / 4.0, 1));
-        if (seconds > 59)
+        public static void Main(string[] args)
         {
-            minutes = 1;
-            seconds -= 60;
-            Console.WriteLine("{0}m {1}s", minutes, seconds);
-        }
-        else
-        {
-            Console.WriteLine("{0}m {1}s", minutes, seconds);
+            //Console.WriteLine("Hello World!");
+            int beatsPerMinute = int.Parse(Console.ReadLine());
+            double beatsCount = double.Parse(Console.ReadLine());
+
+            double time = (beatsCount / beatsPerMinute) * 60;
+            int mins = (int)time / 60;
+            double secs = (int)time % 60;
+
+            Console.WriteLine($"{Math.Round(beatsCount / 4, 1)} bars - {mins}m {secs}s");
         }
     }
 }

@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.exe
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\obj\Debug\05. BPM Counter.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\obj\Debug\05. BPM Counter.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\obj\Debug\_05.BPM_Counter.exe
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\05. BPM Counter\obj\Debug\_05.BPM_Counter.pdb
