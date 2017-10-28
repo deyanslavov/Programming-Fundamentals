@@ -1,0 +1,7 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\_13.Factorial.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\_13.Factorial.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\_13.Factorial.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\_13.Factorial.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\_13.Factorial.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\09. Longer Line.csprojResolveAssemblyReference.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\09. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.pdb
