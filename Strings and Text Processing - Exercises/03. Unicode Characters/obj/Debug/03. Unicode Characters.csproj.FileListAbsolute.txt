@@ -1,6 +1,0 @@
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

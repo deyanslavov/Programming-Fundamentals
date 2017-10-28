@@ -1,7 +1,0 @@
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe.config
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.pdb
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\08. Center Point.csprojResolveAssemblyReference.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\08. Center Point.csproj.CoreCompileInputs.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\_08.Center_Point.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Methods, Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\_08.Center_Point.pdb

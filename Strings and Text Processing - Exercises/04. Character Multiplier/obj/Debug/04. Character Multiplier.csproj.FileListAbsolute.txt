@@ -1,6 +1,0 @@
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\04. Character Multiplier\obj\Debug\04. Character Multiplier.csproj.CoreCompileInputs.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb

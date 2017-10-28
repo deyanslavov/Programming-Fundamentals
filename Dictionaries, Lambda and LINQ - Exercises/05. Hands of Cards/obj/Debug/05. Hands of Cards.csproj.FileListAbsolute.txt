@@ -1,7 +1,0 @@
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.exe.config
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\bin\Debug\_05.Hands_of_Cards.pdb
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\05. Hands of Cards.csprojResolveAssemblyReference.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\05. Hands of Cards.csproj.CoreCompileInputs.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\_05.Hands_of_Cards.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\05. Hands of Cards\obj\Debug\_05.Hands_of_Cards.pdb
