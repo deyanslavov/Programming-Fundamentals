@@ -1,0 +1,6 @@
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe.config
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\07. Multiply big number\bin\Debug\_07.Multiply_big_number.pdb
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\07. Multiply big number\obj\Debug\07. Multiply big number.csproj.CoreCompileInputs.cache
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\07. Multiply big number\obj\Debug\_07.Multiply_big_number.exe
+C:\Users\Dido\Documents\Visual Studio 2017\Projects\exerc\07. Multiply big number\obj\Debug\_07.Multiply_big_number.pdb

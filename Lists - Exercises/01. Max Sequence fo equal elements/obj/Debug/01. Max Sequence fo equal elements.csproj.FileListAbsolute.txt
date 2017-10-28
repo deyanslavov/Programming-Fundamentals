@@ -1,0 +1,7 @@
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\bin\Debug\_01.Max_Sequence_fo_equal_elements.exe.config
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\bin\Debug\_01.Max_Sequence_fo_equal_elements.exe
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\bin\Debug\_01.Max_Sequence_fo_equal_elements.pdb
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\obj\Debug\01. Max Sequence fo equal elements.csprojResolveAssemblyReference.cache
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\obj\Debug\01. Max Sequence fo equal elements.csproj.CoreCompileInputs.cache
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\obj\Debug\_01.Max_Sequence_fo_equal_elements.exe
+C:\Users\Dido\source\repos\Lists - Exercises\01. Max Sequence fo equal elements\obj\Debug\_01.Max_Sequence_fo_equal_elements.pdb
