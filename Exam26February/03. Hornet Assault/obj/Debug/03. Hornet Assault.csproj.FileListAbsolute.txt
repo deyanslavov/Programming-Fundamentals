@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\bin\Debug\_03.Hornet_Assault.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\obj\Debug\03. Hornet Assault.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\obj\Debug\03. Hornet Assault.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\obj\Debug\_03.Hornet_Assault.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\03. Hornet Assault\obj\Debug\_03.Hornet_Assault.pdb

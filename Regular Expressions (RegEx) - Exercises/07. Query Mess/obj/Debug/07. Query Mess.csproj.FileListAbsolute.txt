@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\07. Query Mess.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\07. Query Mess.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.pdb

@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\bin\Debug\_04.Hornet_Armada.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\obj\Debug\04. Hornet Armada.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\obj\Debug\04. Hornet Armada.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\obj\Debug\_04.Hornet_Armada.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\04. Hornet Armada\obj\Debug\_04.Hornet_Armada.pdb

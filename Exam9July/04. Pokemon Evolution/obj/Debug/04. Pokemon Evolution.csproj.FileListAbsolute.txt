@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\bin\Debug\_04.Pokemon_Evolution.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\bin\Debug\_04.Pokemon_Evolution.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\bin\Debug\_04.Pokemon_Evolution.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\obj\Debug\04. Pokemon Evolution.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\obj\Debug\_04.Pokemon_Evolution.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\obj\Debug\_04.Pokemon_Evolution.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\04. Pokemon Evolution\obj\Debug\04. Pokemon Evolution.csprojResolveAssemblyReference.cache

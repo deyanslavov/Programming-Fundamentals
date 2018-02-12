@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\bin\Debug\_03.Football_League.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\obj\Debug\03. Football League.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\obj\Debug\03. Football League.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\obj\Debug\_03.Football_League.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\03. Football League\obj\Debug\_03.Football_League.pdb

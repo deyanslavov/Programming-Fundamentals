@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\bin\Debug\_01.Hornet_Wings.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\obj\Debug\01. Hornet Wings.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\obj\Debug\01. Hornet Wings.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\01. Hornet Wings\obj\Debug\_01.Hornet_Wings.pdb

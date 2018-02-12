@@ -1,0 +1,6 @@
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.pdb

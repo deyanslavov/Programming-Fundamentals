@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\05. Key Replacer.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\05. Key Replacer.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

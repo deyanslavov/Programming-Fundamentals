@@ -1,0 +1,6 @@
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\03. Camera View.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\_03.Camera_View.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\_03.Camera_View.pdb

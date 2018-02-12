@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\bin\Debug\_02.Pokemon_Don_t_Go.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\obj\Debug\02. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\obj\Debug\02. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\02. Pokemon Don't Go\obj\Debug\_02.Pokemon_Don_t_Go.pdb

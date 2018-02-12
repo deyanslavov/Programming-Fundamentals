@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.exe
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\bin\Debug\_03.Endurance_Rally.pdb
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\obj\Debug\03. Endurance Rally.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\obj\Debug\03. Endurance Rally.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.exe
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\03. Endurance Rally\obj\Debug\_03.Endurance_Rally.pdb

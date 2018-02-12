@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\obj\Debug\02. Hornet Comm.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\obj\Debug\02. Hornet Comm.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\obj\Debug\_02.Hornet_Comm.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam26February\02. Hornet Comm\bin\Debug\_02.Hornet_Comm.pdb

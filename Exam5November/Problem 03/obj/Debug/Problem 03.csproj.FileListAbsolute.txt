@@ -1,0 +1,6 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 03\bin\Debug\Problem 03.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 03\bin\Debug\Problem 03.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 03\bin\Debug\Problem 03.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 03\obj\Debug\Problem 03.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 03\obj\Debug\Problem 03.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 03\obj\Debug\Problem 03.pdb

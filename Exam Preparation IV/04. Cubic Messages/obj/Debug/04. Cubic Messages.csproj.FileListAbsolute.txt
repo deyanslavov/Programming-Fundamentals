@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\bin\Debug\_04.Cubic_Messages.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\obj\Debug\04. Cubic Messages.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\obj\Debug\04. Cubic Messages.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam Preparation IV\04. Cubic Messages\obj\Debug\_04.Cubic_Messages.pdb

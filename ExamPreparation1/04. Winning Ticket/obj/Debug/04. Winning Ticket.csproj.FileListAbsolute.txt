@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\obj\Debug\04. Winning Ticket.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\obj\Debug\04. Winning Ticket.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.exe
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\bin\Debug\_04.Winning_Ticket.pdb
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.exe
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation1\04. Winning Ticket\obj\Debug\_04.Winning_Ticket.pdb

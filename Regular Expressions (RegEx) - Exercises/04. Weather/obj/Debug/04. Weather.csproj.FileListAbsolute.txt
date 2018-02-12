@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\bin\Debug\_04.Weather.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\bin\Debug\_04.Weather.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\bin\Debug\_04.Weather.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\04. Weather.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\04. Weather.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\_04.Weather.exe
+E:\Coding\GitHub\Programming-Fundamentals\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\_04.Weather.pdb

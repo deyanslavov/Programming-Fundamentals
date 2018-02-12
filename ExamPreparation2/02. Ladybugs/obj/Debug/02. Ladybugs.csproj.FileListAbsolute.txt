@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\bin\Debug\_02.Ladybugs.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\bin\Debug\_02.Ladybugs.exe
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\bin\Debug\_02.Ladybugs.pdb
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\obj\Debug\02. Ladybugs.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\obj\Debug\02. Ladybugs.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\obj\Debug\_02.Ladybugs.exe
+E:\Coding\GitHub\Programming-Fundamentals\ExamPreparation2\02. Ladybugs\obj\Debug\_02.Ladybugs.pdb

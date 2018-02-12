@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\bin\Debug\_03.Regexmon.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\bin\Debug\_03.Regexmon.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\bin\Debug\_03.Regexmon.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\obj\Debug\03. Regexmon.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\obj\Debug\03. Regexmon.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\obj\Debug\_03.Regexmon.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam9July\03. Regexmon\obj\Debug\_03.Regexmon.pdb

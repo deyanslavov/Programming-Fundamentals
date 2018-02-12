@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\bin\Debug\Problem 04.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\bin\Debug\Problem 04.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\bin\Debug\Problem 04.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\obj\Debug\Problem 04.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\obj\Debug\Problem 04.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\obj\Debug\Problem 04.exe
+E:\Coding\GitHub\Programming-Fundamentals\Exam5November\Problem 04\obj\Debug\Problem 04.pdb
