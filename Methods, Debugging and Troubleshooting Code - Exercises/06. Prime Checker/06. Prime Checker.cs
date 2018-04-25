@@ -1,10 +1,10 @@
-﻿using System;
-
-namespace _06.Prime_Checker
+﻿namespace _06.Prime_Checker
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             long n = long.Parse(Console.ReadLine());
             Console.WriteLine(IsPrime(n));

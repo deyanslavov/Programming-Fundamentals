@@ -1,11 +1,11 @@
-﻿using System;
-using System.Numerics;
-
-namespace _13.Factorial
+﻿namespace _13.Factorial
 {
+    using System;
+    using System.Numerics;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
 

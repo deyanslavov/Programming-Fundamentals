@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _09.Longer_Line
+﻿namespace _09.Longer_Line
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double x1 = double.Parse(Console.ReadLine());
             double y1 = double.Parse(Console.ReadLine());
