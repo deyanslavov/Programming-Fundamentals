@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Pr07AndreyAndBilliard
+﻿namespace Pr07AndreyAndBilliard
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Pr07AndreyAndBilliard
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             Dictionary<string, decimal> infoItems = new Dictionary<string, decimal>();
@@ -18,9 +16,7 @@ namespace Pr07AndreyAndBilliard
                 var info = Console.ReadLine().Split('-').ToArray();
                 string product = info[0];
                 decimal price = decimal.Parse(info[1]);
-
-                //премахнах проверката понеже условието не изисква да има такава
-                //ако въведат отново такъв продукт цената се презаписва
+                
                 infoItems[product] = price;
             }
 
@@ -47,18 +43,11 @@ namespace Pr07AndreyAndBilliard
                         if (!customer.Order.ContainsKey(product))
                         {
                             customer.Order.Add(product, piecesProduct);
-                            //забравил си когато добавяш продукти да добавяш и сегашната сума към сметката
-                            //ако използваш само знака "=" презаписваш сумата и ако си имал 12.00 лв на сметката
-                            //а сега имаш 3.00 ще запишеш 3.00
                             customer.Bill += piecesProduct * infoItems[product];
                         }
                         else
                         {
                             customer.Order[product] += piecesProduct;
-                            //тук отново си забравил да добавиш към старата сума новата
-                            //и не трябва да умножаваш с "customer.Order[product]", а с "piecesProduct"
-                            //ако имаш поръчани 3 бири и 3 коли по 1 лев тоест 6лв общо
-                            //ако после се опиташ да добавиш още 3 бири ще ти сметне 6 бири по 1лв и ще обърка цената
                             customer.Bill += piecesProduct * infoItems[product];
                         }
                     }

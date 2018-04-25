@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Globalization;
-//08. MentorGroup
-namespace MentorGroup
+﻿namespace MentorGroup
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Globalization;
+
     class MentorGroup
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<Student> students = new List<Student>();
 

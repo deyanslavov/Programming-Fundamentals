@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Intersection_of_Circles
+﻿namespace _03.Intersection_of_Circles
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Circle circle1 = ReadCircle(Console.ReadLine());
             Circle circle2 = ReadCircle(Console.ReadLine());

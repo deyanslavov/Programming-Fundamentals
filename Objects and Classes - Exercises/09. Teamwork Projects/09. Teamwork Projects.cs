@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-//09. TeamworkProjects
-namespace TeamworkProjects
+﻿namespace TeamworkProjects
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class TeamworkProjects
     {
-        static void Main(string[] args)
+        static void Main()
         {
             List<Team> teams = new List<Team>();
 
