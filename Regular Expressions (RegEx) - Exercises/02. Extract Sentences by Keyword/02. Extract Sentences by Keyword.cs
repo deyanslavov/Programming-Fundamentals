@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace _02.Extract_Sentences_by_Keyword
+﻿namespace _02.Extract_Sentences_by_Keyword
 {
+    using System;
+    using System.Linq;
+    using System.Text.RegularExpressions;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var word = Console.ReadLine();
             var input = Console.ReadLine().Split('.', '!' , '?').ToArray();

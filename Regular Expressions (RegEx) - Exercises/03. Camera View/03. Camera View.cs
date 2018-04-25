@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace _03.Camera_View
+﻿namespace _03.Camera_View
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text.RegularExpressions;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int[] indices = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int m = indices[0];

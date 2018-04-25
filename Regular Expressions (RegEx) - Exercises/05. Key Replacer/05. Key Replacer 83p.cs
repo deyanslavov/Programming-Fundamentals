@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace _05.Key_Replacer
+﻿namespace _05.Key_Replacer
 {
+    using System;
+    using System.Text.RegularExpressions;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var key = Console.ReadLine();
             var keyReversed = "";
