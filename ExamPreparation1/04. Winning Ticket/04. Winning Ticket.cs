@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
         var ticketsLine = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries).ToArray();
         var pattern = @"[@]{6,10}|[#]{6,10}|[$]{6,10}|[\^]{6,10}";

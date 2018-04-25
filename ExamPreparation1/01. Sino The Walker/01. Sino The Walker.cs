@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_1.Sino_The_Walker
+﻿namespace Problem_1.Sino_The_Walker
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var time = Console.ReadLine().Split(':').ToArray();
             long timeInSeconds = long.Parse(time[0]) * 3600 + long.Parse(time[1]) * 60 + long.Parse(time[2]);
@@ -17,7 +14,6 @@ namespace Problem_1.Sino_The_Walker
 
             long secondsNeeded = steps * seconds;
             var startTime = TimeSpan.FromSeconds(timeInSeconds).ToString().Split(':').ToArray();
-            //var neededTime = TimeSpan.FromSeconds(secondsNeeded).ToString().Split(':').ToList();
 
             long hours = secondsNeeded / 3600;
             long tHours = hours;
