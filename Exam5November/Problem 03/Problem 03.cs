@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace Problem_03
+﻿namespace Problem_03
 {
+    using System;
+    using System.Linq;
+    using System.Text.RegularExpressions;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var encodedText = Console.ReadLine();
             var values = Console.ReadLine().Split(new char[] { '}', '{' }, StringSplitOptions.RemoveEmptyEntries).ToArray() ;

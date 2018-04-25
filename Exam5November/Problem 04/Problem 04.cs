@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_04
+﻿namespace Problem_04
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Data
     {
         public string Key;
@@ -23,7 +21,7 @@ namespace Problem_04
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine();
             var dataSets = new Dictionary<string, List<Data>>();
@@ -41,7 +39,7 @@ namespace Problem_04
                     }
                 }
                 else
-                {     
+                {
                     var dataKey = tokens[0];
                     var dataSize = int.Parse(tokens[1]);
                     var dataSet = tokens[2];
@@ -65,7 +63,7 @@ namespace Problem_04
                         else
                         {
                             cache.Add(dataSet, dataList);
-                        }               
+                        }
                     }
                 }
                 input = Console.ReadLine();
@@ -79,24 +77,19 @@ namespace Problem_04
                 foreach (var c in d.Value)
                 {
                     totalSize += c.Size;
-                    
-                    list.Add(c.Key);               
+
+                    list.Add(c.Key);
                 }
                 var adict = new SortedDictionary<int, List<string>>();
                 adict.Add(totalSize, list);
                 dict.Add(d.Key, adict);
             }
-            //dict.OrderByDescending(a => a.Value.v);
 
-            //foreach (var d in dict)
-            //{
-            //    foreach (var a in dict.Values)
-            //    {
-            //        dict.Values.OrderByDescending(v => v.Keys);
-            //    }
-            //    dict.OrderByDescending(t => t.Value);
-            //}
+            PrintResult(dict);
+        }
 
+        private static void PrintResult(Dictionary<string, SortedDictionary<int, List<string>>> dict)
+        {
             dict.OrderByDescending(d => d.Value.Keys).ThenBy(a => a.Key);
             foreach (var d in dict.Keys)
             {

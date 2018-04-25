@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_01
+﻿namespace Problem_01
 {
+    using System;
+    using System.Linq;
+    using System.Numerics;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             checked
             {
