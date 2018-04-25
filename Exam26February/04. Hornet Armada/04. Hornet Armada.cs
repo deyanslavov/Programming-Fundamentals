@@ -7,7 +7,7 @@
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Dictionary<string, int> legionsWithActivity = new Dictionary<string, int>();
             Dictionary<string, Dictionary<string, long>> legionsWithSoldiers = new Dictionary<string, Dictionary<string, long>>();

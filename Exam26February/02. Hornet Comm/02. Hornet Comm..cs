@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Text.RegularExpressions;
-
-namespace _02.Hornet_Comm
+﻿namespace _02.Hornet_Comm
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Text.RegularExpressions;
+
     class Message
     {
         public string Code;
@@ -39,7 +38,7 @@ namespace _02.Hornet_Comm
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             checked
             {
@@ -47,6 +46,7 @@ namespace _02.Hornet_Comm
                 char[] splitters = { ' ', '-', '>', '<' };
                 var messageList = new List<Message>();
                 var broadcastList = new List<Broadcast>();
+
                 while (input != "Hornet is Green")
                 {
                     Message message = new Message();
@@ -56,7 +56,7 @@ namespace _02.Hornet_Comm
                     if (splittedInput.Length == 1)
                     {
                         input = Console.ReadLine();
-                            break;
+                        break;
                     }
                     var splittedInput1 = splittedInput[0].ToCharArray();
                     var splittedInput2 = splittedInput[1].ToCharArray();
@@ -118,6 +118,14 @@ namespace _02.Hornet_Comm
                     }
                     input = Console.ReadLine();
                 }
+                PrintResult(messageList, broadcastList);
+            }
+        }
+
+        private static void PrintResult(List<Message> messageList, List<Broadcast> broadcastList)
+        {
+            checked
+            {
                 Console.WriteLine("Broadcasts:");
                 if (broadcastList.Count == 0)
                 {

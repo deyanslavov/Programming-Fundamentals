@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Hornet_Wings
+﻿namespace _01.Hornet_Wings
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             decimal wingFlaps = decimal.Parse(Console.ReadLine());
             decimal distancePer1000Flaps = decimal.Parse(Console.ReadLine());
