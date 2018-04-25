@@ -1,22 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Phonebook
+﻿namespace _01.Phonebook
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine().Split().ToList();
             var phonebook = new Dictionary<string, string>();
 
             while (true)
             {
-                //string name = input[1];
-                //string number = input[2];
                 if (input.First() == "A")
                 {                    
                     if (!phonebook.ContainsKey(input[1]))

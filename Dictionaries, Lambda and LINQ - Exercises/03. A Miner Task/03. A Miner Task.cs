@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.A_Miner_Task
+﻿namespace _03.A_Miner_Task
 {
+    using System;
+    using System.Collections.Generic;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var result = new Dictionary<string, long>();
             string key = string.Empty;
@@ -27,7 +24,6 @@ namespace _03.A_Miner_Task
                     key = input;
                     if (result.ContainsKey(key))
                     {
-                        //key = input;
                         result[key] += value;
                     }
                     else
@@ -47,9 +43,6 @@ namespace _03.A_Miner_Task
                     {
                         result[key] = value;
                     }
-                    //result[key] += value;
-
-                    //Console.WriteLine("{0} -> {1}", key, result[key]);
                     value = 0;
                 }
             }

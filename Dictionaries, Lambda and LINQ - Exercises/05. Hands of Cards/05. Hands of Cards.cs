@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-//05. Hands of Cards
-namespace HandsOfCards
+﻿namespace HandsOfCards
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class HandsOfCards
     {
-        static void Main(string[] args)
+        static void Main()
         {
             bool canContinue = true;
             Dictionary<string, int> scores = new Dictionary<string, int>();
