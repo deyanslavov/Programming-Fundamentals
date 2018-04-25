@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Conditional_Statements_and_Loops___Lab
+﻿namespace Conditional_Statements_and_Loops___Lab
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double grade = double.Parse(Console.ReadLine());
 
