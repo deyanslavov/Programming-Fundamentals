@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _05.Array_Manipulator
+﻿namespace _05.Array_Manipulator
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine().Split().Select(long.Parse).ToList();
             var command = Console.ReadLine().Split().ToList();

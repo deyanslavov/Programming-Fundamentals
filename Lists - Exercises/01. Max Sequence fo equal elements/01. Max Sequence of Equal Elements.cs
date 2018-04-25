@@ -1,17 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Max_Sequence_fo_equal_elements
+﻿namespace _01.Max_Sequence_fo_equal_elements
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var numbers = new List<int>();
             numbers = Console.ReadLine().Split().Select(a => int.Parse(a)).ToList();
+
             int bestIndexRight = 0;
             int currIndexRight = 0;
             int bestLengthRight = 0;
@@ -22,6 +21,7 @@ namespace _01.Max_Sequence_fo_equal_elements
             int currIndexLeft = 0;
             int bestLengthLeft = 0;
             int currLengthLeft = 1;
+
             for (int i = 1; i < numbers.Count; i++)
             {
                 if (numbers[i] == numbers[i - 1])

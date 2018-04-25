@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _06.Sum_Reversed_Numbers
+﻿namespace _06.Sum_Reversed_Numbers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine().Split().ToList();
             var newList = new List<int>();

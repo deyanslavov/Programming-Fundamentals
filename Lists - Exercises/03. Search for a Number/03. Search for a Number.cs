@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Search_for_a_Number
+﻿namespace _03.Search_for_a_Number
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine().Split().Select(int.Parse).ToList();
             var arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
