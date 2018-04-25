@@ -7,6 +7,7 @@ public class Program
         int n = int.Parse(Console.ReadLine());
         int m = int.Parse(Console.ReadLine());
         int max = int.Parse(Console.ReadLine());
+
         int count = 0;
         int sum = 0;
 

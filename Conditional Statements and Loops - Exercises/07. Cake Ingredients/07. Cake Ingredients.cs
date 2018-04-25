@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07.Cake_Ingredients
+﻿namespace _07.Cake_Ingredients
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int count = 0;
 

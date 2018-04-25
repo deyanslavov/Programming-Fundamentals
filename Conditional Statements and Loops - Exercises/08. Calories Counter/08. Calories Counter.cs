@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _08.Calories_Counter
+﻿namespace _08.Calories_Counter
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int numIngredients = int.Parse(Console.ReadLine());
             int calories = 0;

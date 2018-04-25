@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Restaurant_Discount
+﻿namespace _03.Restaurant_Discount
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int groupSize = int.Parse(Console.ReadLine());
             string package = Console.ReadLine();

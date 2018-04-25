@@ -4,17 +4,17 @@ public class Program
 {
     public static void Main()
     {
-        char a = char.Parse(Console.ReadLine());
-        char b = char.Parse(Console.ReadLine());
-        char x = char.Parse(Console.ReadLine());
+        char firstChar = char.Parse(Console.ReadLine());
+        char secondChar = char.Parse(Console.ReadLine());
+        char thirdChar = char.Parse(Console.ReadLine());
 
-        for (char i = a; i <= b; i++)
+        for (char i = firstChar; i <= secondChar; i++)
         {
-            for (char j = a; j <= b; j++)
+            for (char j = firstChar; j <= secondChar; j++)
             {
-                for (char k = a; k <= b; k++)
+                for (char k = firstChar; k <= secondChar; k++)
                 {
-                    if (i != x && j != x && k != x)
+                    if (i != thirdChar && j != thirdChar && k != thirdChar)
                     {
                         Console.Write("{0}{1}{2} ", i, j, k);
                     }

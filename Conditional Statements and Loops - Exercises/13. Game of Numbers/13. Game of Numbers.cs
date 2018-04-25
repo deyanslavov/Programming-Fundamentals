@@ -7,9 +7,11 @@ public class Program
         int n = int.Parse(Console.ReadLine());
         int m = int.Parse(Console.ReadLine());
         int magic = int.Parse(Console.ReadLine());
+
         int count = 0;
         int number = 0;
         bool combination = false;
+
         for (int i = Math.Min(n, m); i <= Math.Max(n, m); i++)
         {
             for (int j = Math.Min(n, m); j <= Math.Max(n, m); j++)

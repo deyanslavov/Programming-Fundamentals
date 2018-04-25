@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Choose_a_Drink_2._0
+﻿namespace _02.Choose_a_Drink_2._0
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string profession = Console.ReadLine();
             int quantity = int.Parse(Console.ReadLine());
