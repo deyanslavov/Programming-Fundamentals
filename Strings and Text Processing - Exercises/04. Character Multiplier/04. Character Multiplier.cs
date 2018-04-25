@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04.Character_Multiplier
+﻿namespace _04.Character_Multiplier
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine().Split().ToArray();
             var firstString = input[0];

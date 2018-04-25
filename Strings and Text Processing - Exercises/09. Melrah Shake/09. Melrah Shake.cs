@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _09.Melrah_Shake
+﻿namespace _09.Melrah_Shake
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine();
             var pattern = Console.ReadLine();
-            //input.Length != 0 || pattern.Length != 0
+
             while (true)
             {
                 var firstIndex = input.IndexOf(pattern);

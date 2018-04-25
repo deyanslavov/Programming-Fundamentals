@@ -1,14 +1,12 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-using System.Numerics;
-
-
-namespace _01.Convert_from_base_10_to_base_N
+﻿namespace _01.Convert_from_base_10_to_base_N
 {
+    using System;
+    using System.Linq;
+    using System.Numerics;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var input = Console.ReadLine().Split().Select(BigInteger.Parse).ToArray();
             var number = input[1].ToString();

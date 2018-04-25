@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _07.Multiply_big_number
+﻿namespace _07.Multiply_big_number
 {
+    using System;
+    using System.Linq;
+    using System.Text;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var bigNumber1 = Console.ReadLine().TrimStart(new char[] { '0' });
             int bigNumber2 = int.Parse(Console.ReadLine());

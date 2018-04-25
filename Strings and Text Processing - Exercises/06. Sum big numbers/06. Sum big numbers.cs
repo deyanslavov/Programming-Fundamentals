@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _06.Sum_big_numbers
+﻿namespace _06.Sum_big_numbers
 {
+    using System;
+    using System.Linq;
+    using System.Text;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var bigNumber1 = Console.ReadLine().TrimStart(new char[] { '0' });
             var bigNumber2 = Console.ReadLine().TrimStart(new char[] { '0' });
