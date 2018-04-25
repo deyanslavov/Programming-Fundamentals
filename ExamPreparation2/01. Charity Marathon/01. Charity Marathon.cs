@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_1.Charity_Marathon
+﻿namespace Problem_1.Charity_Marathon
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -21,8 +17,10 @@ namespace Problem_1.Charity_Marathon
             {
                 numberOfRunners = TrackCapacity * lengthOfMarathonInDays;
             }
+
             long totalKM = (numberOfRunners * numberOfLapsPerRunner * TrackLength) / 1000;
             double moneyRaised = totalKM * moneyDonatedPerKM;
+
             Console.WriteLine($"Money raised: {moneyRaised:f2}");
         }
     }
