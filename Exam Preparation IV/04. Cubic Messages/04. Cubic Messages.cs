@@ -1,18 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace _04.Cubic_Messages
+﻿namespace _04.Cubic_Messages
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
+        {
+            Dictionary<string, string> result = ReadAndProcessInput();
+            PrintResult(result);
+        }
+
+        private static void PrintResult(Dictionary<string, string> result)
+        {
+            foreach (var r in result)
+            {
+                Console.WriteLine($"{r.Key} == {r.Value}");
+            }
+        }
+
+        private static Dictionary<string, string> ReadAndProcessInput()
         {
             var encryptedMessage = Console.ReadLine();
             var result = new Dictionary<string, string>();
+
             while (encryptedMessage != "Over!")
             {
                 int m = int.Parse(Console.ReadLine());
@@ -22,7 +34,6 @@ namespace _04.Cubic_Messages
                 digitCount = indices.Count;
                 var messageToDecrypt = encryptedMessage.Substring(digitCount, m);
                 var afterMessage = encryptedMessage.Substring(encryptedMessage.IndexOf(messageToDecrypt) + m);
-                //var regex = Regex.Match(afterMessage, "[^a-zA-Z]+");
 
 
                 bool includesLetter = false;
@@ -43,7 +54,7 @@ namespace _04.Cubic_Messages
 
                     for (int i = 0; i < indices.Count; i++)
                     {
-                        if (indices[i] > messageToDecrypt.Length-1)
+                        if (indices[i] > messageToDecrypt.Length - 1)
                         {
                             sb.Append(" ");
                         }
@@ -57,10 +68,8 @@ namespace _04.Cubic_Messages
 
                 encryptedMessage = Console.ReadLine();
             }
-            foreach (var r in result)
-            {
-                Console.WriteLine($"{r.Key} == {r.Value}");
-            }
+
+            return result;
         }
 
         private static List<int> TryParseMessage(string encryptedMessage, int digitCount, List<int> indices)

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 class Program
 {
@@ -135,6 +133,7 @@ class Program
             odds = odds.Take(count).ToList();
         Console.WriteLine("[" + string.Join(", ", odds) + "]");
     }
+
     private static void PrintFirstEvens(List<int> items, int count)
     {
         var evens = new List<int>();
@@ -157,6 +156,7 @@ class Program
         evens = evens.Take(count).ToList();
         Console.WriteLine("[" + string.Join(", ", evens) + "]");
     }
+
     private static void PrintMinOddIndex(List<int> items)
     {
         var currentIndex = int.MinValue;
@@ -183,6 +183,7 @@ class Program
         else
             Console.WriteLine(bestIndex);
     }
+
     private static void PrintMinEvenIndex(List<int> items)
     {
         var currentIndex = int.MinValue;
@@ -209,6 +210,7 @@ class Program
         else
             Console.WriteLine(bestIndex);
     }
+
     private static void PrintMaxOddIndex(List<int> items)
     {
         var currentIndex = int.MinValue;
@@ -235,6 +237,7 @@ class Program
         else
             Console.WriteLine(bestIndex);
     }
+
     private static void PrintMaxEvenIndex(List<int> items)
     {
         var currentIndex = int.MinValue;

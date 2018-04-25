@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Sweet_Dessert
+﻿namespace _01.Sweet_Dessert
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             decimal cash = decimal.Parse(Console.ReadLine());
             decimal guests = decimal.Parse(Console.ReadLine());
@@ -18,6 +13,7 @@ namespace _01.Sweet_Dessert
             decimal pricePerKgBerries = decimal.Parse(Console.ReadLine());
             decimal portions = Math.Ceiling(guests / 6);
             decimal totalPrice = portions * (2.0M * pricePerBanana) + portions * (4.0M * pricePerEgg) + portions * (0.2M * pricePerKgBerries);
+
             if (totalPrice <= cash)
             {
                 Console.WriteLine($"Ivancho has enough money - it would cost {totalPrice:f2}lv.");
