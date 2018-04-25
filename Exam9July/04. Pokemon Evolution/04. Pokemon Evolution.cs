@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 class Evolution
 {
@@ -35,6 +33,12 @@ class Evolution
 class Program
 {
     static void Main(string[] args)
+    {
+        Dictionary<string, List<Evolution>> pokemons = ReadAndProcessInput();
+        PrintResult(pokemons);
+    }
+
+    private static Dictionary<string, List<Evolution>> ReadAndProcessInput()
     {
         var input = Console.ReadLine();
         var pokemons = new Dictionary<string, List<Evolution>>();
@@ -75,6 +79,12 @@ class Program
             }
             input = Console.ReadLine();
         }
+
+        return pokemons;
+    }
+
+    private static void PrintResult(Dictionary<string, List<Evolution>> pokemons)
+    {
         foreach (var p in pokemons)
         {
             Console.WriteLine($"# {p.Key}");

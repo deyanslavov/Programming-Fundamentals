@@ -1,18 +1,20 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace _03.Regexmon
+﻿namespace _03.Regexmon
 {
+    using System;
+    using System.Text.RegularExpressions;
+
     class Regexmon
     {
         static void Main(string[] args)
         {
             Regex didimon = new Regex(@"[^a-zA-Z-]+");
             Regex bojomon = new Regex(@"[a-zA-Z]+-[a-zA-Z]+");
+
             Match match;
             string text = Console.ReadLine();
             string matchedText = "";
             int index = 0;
+
             while (true)
             {
                 match = didimon.Match(text, index);

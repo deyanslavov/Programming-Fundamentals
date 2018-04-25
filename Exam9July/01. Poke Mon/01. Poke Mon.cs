@@ -1,18 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Poke_Mon
+﻿namespace _01.Poke_Mon
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             int m = int.Parse(Console.ReadLine());
             int y = int.Parse(Console.ReadLine());
+
             double half = n * 0.5;
             int count = 0;
 
