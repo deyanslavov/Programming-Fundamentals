@@ -19,6 +19,5 @@ public class Program
         Console.WriteLine(num5);
         Console.WriteLine(num6);
         Console.WriteLine(num7);
-
     }
 }
