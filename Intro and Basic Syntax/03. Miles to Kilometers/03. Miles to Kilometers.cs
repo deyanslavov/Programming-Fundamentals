@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _03.Miles_to_Kilometers
+﻿namespace _03.Miles_to_Kilometers
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double miles = double.Parse(Console.ReadLine());
             double km = miles * 1.60934;

@@ -1,19 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Rectangle_Area
+﻿namespace _02.Rectangle_Area
 {
+    using System;
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            double a = double.Parse(Console.ReadLine());
-            double b = double.Parse(Console.ReadLine());
+            double sideA = double.Parse(Console.ReadLine());
+            double sideB = double.Parse(Console.ReadLine());
 
-            double area = a * b;
+            double area = sideA * sideB;
 
             Console.WriteLine("{0:f2}", area);
         }

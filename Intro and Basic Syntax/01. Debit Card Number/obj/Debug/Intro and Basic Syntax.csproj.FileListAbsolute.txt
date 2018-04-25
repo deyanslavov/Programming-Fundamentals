@@ -1,7 +1,0 @@
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe.config
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.pdb
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.csprojResolveAssemblyReference.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.csproj.CoreCompileInputs.cache
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.exe
-C:\Users\Dido\Documents\Visual Studio 2017\Projects\Intro and Basic Syntax\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.pdb
