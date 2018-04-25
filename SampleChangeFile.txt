@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-testvamm
-=======
-testvam
-
->>>>>>> ac745ccf2195ad92835fde46e12e78166c5c57c5
