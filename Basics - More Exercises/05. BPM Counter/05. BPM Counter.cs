@@ -1,12 +1,11 @@
-﻿using System;
-
-namespace BPMCounter
+﻿namespace BPMCounter
 {
+    using System;
+
     class Program
     {
         public static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
             int beatsPerMinute = int.Parse(Console.ReadLine());
             double beatsCount = double.Parse(Console.ReadLine());
 

@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\obj\Debug\04. Photo Gallery.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\obj\Debug\04. Photo Gallery.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.exe
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.pdb

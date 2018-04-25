@@ -1,0 +1,2 @@
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\02. Vapor Store\obj\Debug\02. Vapor Store.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\02. Vapor Store\obj\Debug\02. Vapor Store.csproj.CoreCompileInputs.cache

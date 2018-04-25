@@ -1,0 +1,7 @@
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe.config
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.pdb
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\obj\Debug\03. Megapixels.csprojResolveAssemblyReference.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\obj\Debug\03. Megapixels.csproj.CoreCompileInputs.cache
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.exe
+E:\Coding\GitHub\Programming-Fundamentals\Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.pdb
